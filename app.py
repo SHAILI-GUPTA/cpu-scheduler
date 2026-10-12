@@ -8,7 +8,7 @@ OR
 Both will launch the web visualizer on localhost and open your browser!
 """
 
-from scheduler import main
+from scheduler import app,main
 
 if __name__ == "__main__":
     main()
